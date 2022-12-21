@@ -1,4 +1,4 @@
-#include <cs50.h>
+//RECEBE 2 ARGUMENTOS NA LINHA DE COMANDO, PRINTA ARG DIGITADO E SEPARA A STRING EM CARACTERES. EX: ./Args_CLI Levy
 #include <stdio.h>
 #include <string.h>
 
